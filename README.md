@@ -20,7 +20,7 @@ To install and run EntertainEase locally, follow these steps:
 
 1.  Clone the repository:
     ```sh    
-       git clone https://github.com/yash7488/EntertainEase.git
+       git clone https://github.com/yash74880/EntertainEase.git
     ```
     
 2.  Navigate to the cloned repository:
